@@ -119,6 +119,7 @@ profile-card-1/
 │       ├── mockup_1.png
 │       └── mockup_2.png
 ├── index.html
+├── LICENSE
 └── README.md
 ```
 
