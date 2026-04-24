@@ -56,7 +56,7 @@ Profile Card is a frontend UI component built as part of a frontend development 
 
 ## Live Demo
 
-Live Demo available at: 
+Live Demo available at: https://naxvenui-profile-card-1.netlify.app/
 
 ---
 
