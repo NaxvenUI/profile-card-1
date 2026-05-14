@@ -80,7 +80,7 @@ No build step required. Clone or download the project and open `index.html` dire
 
 ```bash
 git clone https://github.com/NaxvenUI/profile-card-1.git
-cd profile-card-1
+cd profile_card_1
 ```
 
 2. Open the file in your browser:
